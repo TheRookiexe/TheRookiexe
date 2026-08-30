@@ -1,22 +1,160 @@
-# 💫 About Me:
-I'm a cse student working on a blockchain project have worked on some projects related to web page development and some python project 
+<h1 align="center">Hi, I'm Kishan Kumar Mishra</h1>
 
+<h3 align="center">Computer Science Engineer | Backend & Full-Stack Developer | Python Developer </h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kumar-mishra-a927a9330/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:44armishra@gamil.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheRookiexe&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheRookiexe&theme=nightowl&hide_border=false)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRookiexe&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheRookiexe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/TheRookiexe">
+    <img src="https://img.shields.io/badge/GitHub-TheRookiexe-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheRookiexe&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Computer Science Engineering student who enjoys building practical applications and learning how software systems work from backend to frontend.
+
+* 🎓 Computer Science Engineering student
+* 🐍 Building backend applications with **Python, FastAPI & Flask**
+* 📊 Interested in **data processing, automation & AI-powered applications**
+* 📱 Exploring **Android development with Kotlin & Jetpack Compose**
+* ☁️ Currently learning **AWS and cloud deployment**
+* 🛠️ I enjoy turning ideas into functional, user-focused projects
+* 🚀 Currently working on **Data Detective**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 [Data Detective](https://github.com/TheRookiexe/Data-Detective)
+
+> **Understand and Discover your data**
+
+A modular FastAPI-based data analysis application that helps users understand datasets through automated analysis.
+
+**Highlights**
+
+* 📊 Dataset overview and structural analysis
+* 🧹 Data-quality analysis
+* 🔍 Missing-value and duplicate detection
+* 💡 Automated findings and recommendations
+* 📈 Visualization suggestions
+* 🧩 Modular analysis engine
+* ⚡ Single API-driven analysis workflow
+
+**Tech:** `Python` `FastAPI` `Pandas` `JavaScript` `HTML` `CSS`
+
+---
+
+### 🔊 [Vox-PDF](https://github.com/TheRookiexe/Vox-PDF)
+
+A web application that converts PDF documents into natural-sounding speech.
+
+**Highlights**
+
+* 📄 PDF document processing
+* 🔊 Text-to-speech conversion
+* 🗣️ Microsoft Edge TTS integration
+* 🌐 Web-based interface
+* 🐍 Flask backend
+
+**Tech:** `Python` `Flask` `JavaScript` `HTML` `CSS` `pypdf` `Edge-TTS`
+
+---
+
+### 📱 [MahilaShaktiUnnati](https://github.com/TheRookiexe/MahilaShaktiUnnati)
+
+A finance-management Android application designed for Self-Help Groups.
+
+**Tech:** `Kotlin` `Jetpack Compose` `Room Database` `MVVM`
+
+---
+
+### 🧩 Other Projects
+
+| Project                                                               | Description                                       | Technologies            |
+| --------------------------------------------------------------------- | ------------------------------------------------- | ----------------------- |
+| [HackerX_BINNERS](https://github.com/TheRookiexe/HackerX_BINNERS)     | Document-focused project based on DocuSage        | Python                  |
+| [Project-Dashboard](https://github.com/TheRookiexe/Project-Dashboard) | Admin dashboard built as part of The Odin Project | HTML / CSS / JavaScript |
+| [Weather-App](https://github.com/TheRookiexe/Weather-App)             | Web-based weather application                     | JavaScript              |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,kotlin,html,css" alt="Languages"/>
+</p>
+
+### Backend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" alt="Backend"/>
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases"/>
+</p>
+
+`SQL` · `Pandas` · `Machine Learning` · `spaCy`
+
+### AI & APIs
+
+`LLMs` · `Groq` · `Pinecone`
+
+### Android
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Android"/>
+</p>
+
+`Jetpack Compose` · `Room` · `MVVM`
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux" alt="Tools"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRookiexe&show_icons=true&hide_border=true&theme=transparent" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRookiexe&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TheRookiexe&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* ☁️ AWS & cloud deployment
+* ⚙️ Backend architecture and API design
+* 🐳 Docker & deployment workflows
+* 📊 Data analysis and automated insights
+* 🧠 AI/LLM-based applications
+
+---
+
+## 🤝 Contact & Links
+
+<p align="center">
+  <a href="https://github.com/TheRookiexe">
+    <img src="https://img.shields.io/badge/GitHub-TheRookiexe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Improve. Repeat.</i>
+</p>
