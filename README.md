@@ -125,13 +125,23 @@ A finance-management Android application designed for Self-Help Groups.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRookiexe&show_icons=true&hide_border=true&theme=transparent" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRookiexe&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages"/>
+  <a href="https://github.com/TheRookiexe">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=TheRookiexe&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent"
+      alt="Kishan's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/TheRookiexe">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRookiexe&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent"
+      alt="Kishan's Top Languages"
+    />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheRookiexe&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-</p>
 
 ---
 
