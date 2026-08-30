@@ -145,11 +145,17 @@ A finance-management Android application designed for Self-Help Groups.
 
 ---
 
-## 🤝 Contact & Links
+## 🔗 Contact And Links
 
 <p align="center">
   <a href="https://github.com/TheRookiexe">
-    <img src="https://img.shields.io/badge/GitHub-TheRookiexe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-TheRookiexe-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/kishan-kumar-mishra-a927a9330">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:44kmishra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
