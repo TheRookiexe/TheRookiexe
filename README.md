@@ -137,6 +137,12 @@ A finance-management Android application designed for Self-Help Groups.
   />
 </p>
 
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 ---
 
 ## 🌱 Currently Learning
